@@ -1,10 +1,8 @@
 #自用直连规则
 payload:
-  - DOMAIN-SUFFIX,localads.chengzijianzhan.cn,DIRECT
-  - DOMAIN-SUFFIX,business.oceanengine.com,DIRECT
-  - DOMAIN-SUFFIX,localads.chengzijianzhan.cn,DIRECT
-  - DOMAIN-SUFFIX,ocalads.chengzijianzhan.cn,DIRECT
+  - DOMAIN-SUFFIX,chengzijianzhan.cn,DIRECT
+  - DOMAIN-SUFFIX,oceanengine.com,DIRECT
+  - DOMAIN-SUFFIX,chengzijianzhan.cn,DIRECT
   - DOMAIN-SUFFIX,plug-dd.jd.com.cn,DIRECT  
-  - DOMAIN-SUFFIX,one.alimama.com,DIRECT  
-
+  - DOMAIN-SUFFIX,alimama.com,DIRECT  
   
