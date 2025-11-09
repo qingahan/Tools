@@ -1,5 +1,6 @@
 #自用直连规则
 payload:
+  - DOMAIN-SUFFIX,alimama.com
   - DOMAIN-SUFFIX,chengzijianzhan.cn
   - DOMAIN-SUFFIX,oceanengine.com
   - DOMAIN-SUFFIX,chengzijianzhan.cn
@@ -11,4 +12,3 @@ payload:
   - PROCESS-NAME,PddWorkbench.exe
   - PROCESS-NAME,小红书打印组件.exe
 
-  
