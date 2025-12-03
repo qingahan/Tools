@@ -1,6 +1,7 @@
 #自用直连规则
 payload:
   - DOMAIN-SUFFIX,alimama.com
+  - DOMAIN-SUFFIX,pterclub.net  
   - DOMAIN-SUFFIX,chengzijianzhan.cn
   - DOMAIN-SUFFIX,oceanengine.com
   - DOMAIN-SUFFIX,chengzijianzhan.cn
