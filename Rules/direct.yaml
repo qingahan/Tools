@@ -7,10 +7,11 @@ payload:
   - DOMAIN-SUFFIX,chengzijianzhan.cn
   - DOMAIN-SUFFIX,plug-dd.jd.com.cn
   - DOMAIN-SUFFIX,alimama.com 
+  - DOMAIN-SUFFIX,binance.com
+  
   - PROCESS-NAME,PDDPrintClient.exe
   - PROCESS-NAME,pddwebworkbench.exe 
   - PROCESS-NAME,PDDWBGd.exe 
   - PROCESS-NAME,PddWorkbench.exe
   - PROCESS-NAME,小红书打印组件.exe
   - PROCESS-NAME,快语客服工作台.exe
-  - PROCESS-NAME,binance.com
