@@ -1,3 +1,4 @@
 #自用代理规则
 payload:
   - DOMAIN-SUFFIX,dmhy.org
+  - DOMAIN-SUFFIX,javbus.com
